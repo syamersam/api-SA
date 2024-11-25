@@ -6,7 +6,7 @@ sites:
   - name: API Super App
     url: https://api.superapp.com.my
   - name: IPv6 test
-    url: forwardemail.net
+    url: https://api.superapp.com.my
     port: 80
     check: "tcp-ping"
     ipv6: true
