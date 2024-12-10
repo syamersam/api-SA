@@ -4,18 +4,19 @@
     "url": "https://api.superapp.com.my",
     "icon": "https://icons.duckduckgo.com/ip3/api.superapp.com.my.ico",
     "slug": "api-super-app",
-    "status": "up",
-    "uptime": "98.30%",
+    "status": "down",
+    "uptime": "98.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "96.42%",
-    "uptimeMonth": "98.30%",
-    "uptimeYear": "98.30%",
+    "uptimeMonth": "98.37%",
+    "uptimeYear": "98.37%",
     "time": 3439,
     "timeDay": 7739,
     "timeWeek": 2775,
     "timeMonth": 3439,
     "timeYear": 3439,
     "dailyMinutesDown": {
+      "2024-12-10": 0,
       "2024-12-07": 361
     }
   },
