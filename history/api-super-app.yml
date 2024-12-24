@@ -1,7 +1,7 @@
 url: https://api.superapp.com.my
-status: up
-code: 200
-responseTime: 792
-lastUpdated: 2024-12-23T23:10:13.003Z
+status: down
+code: 502
+responseTime: 935
+lastUpdated: 2024-12-24T04:28:11.376Z
 startTime: 2024-11-25T07:27:34.242Z
 generator: Upptime <https://github.com/upptime/upptime>
